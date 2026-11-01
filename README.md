@@ -10,7 +10,7 @@ Coming from a background in business and digital marketing, I bring a client-foc
 ### 🚀 Featured Projects
 | Project | Stack | Live |
 |---|---|---|
-| **Burger Station** — Fullstack ordering app with JWT auth | React · Node.js · Express · PostgreSQL · Docker | [Demo](https://fronted-burger-station.vercel.app/) |
+| **Burger Station** — Fullstack ordering app with JWT auth | React · Node.js · Express · PostgreSQL · Docker | [Website](https://fronted-burger-station.vercel.app/) |
 | **Natural Greatness** — Product catalog for a real business, managed from Google Sheets | React · TypeScript · Tailwind | [Website](https://naturalgreatness.com.co/) |
 | **Portfolio** — Personal site powered by my own REST API, WhatsApp contact and dark mode | React · Node.js · Express · AWS | [Website](https://paulacruzlo.com/) |
 | **Inventario Inteligente** — Sales & expenses tracker | Python · FastAPI · React · PostgreSQL · Docker | In progress |
