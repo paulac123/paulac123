@@ -4,8 +4,7 @@
 
 Coming from a background in business and digital marketing, I bring a client-focused mindset: I gather requirements, build the solution and keep it running in production.
 
-### 💼 Experience
-- **ApifyCloud** — Software Developer (2026): integrations with WhatsApp Business API, Zoho Desk and Genesys Cloud.
+
 
 ### 🚀 Featured Projects
 | Project | Stack | Live |
