@@ -23,4 +23,4 @@ Diagnosed and fixed production issues — including unbounded SQL queries causin
 | **Inventario Inteligente** — Sales & expenses tracker | Python · FastAPI · React · PostgreSQL · Docker | In progress |
 
 ### 🛠️ Languages and Tools
-React · Node.js · Express · JavaScript · TypeScript · Python · PHP · Vue · HTML · CSS · PostgreSQL · MySQL · Docker · Git & GitHub · AWS · Claude Code
+React · Node.js · Express · JavaScript · TypeScript · Python · PHP ·Symfony · Doctrine · Pinia · Vue · HTML · CSS · PostgreSQL · MySQL · Docker · Git & GitHub · AWS · Claude Code
