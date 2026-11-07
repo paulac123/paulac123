@@ -4,7 +4,15 @@
 
 Coming from a background in business and digital marketing, I bring a client-focused mindset: I gather requirements, build the solution and keep it running in production.
 
+## 💼 Work Experience
 
+**Fullstack Developer — Tidelit** · Music streaming platform
+Built an end-to-end Statistics module (Listener & Artist views): new Symfony/Doctrine endpoints and Vue components with KPIs, trends, advanced filters and an ECharts world choropleth map.
+`Vue.js` `TypeScript` `Pinia` `PHP` `Symfony` `Doctrine` `MySQL` `ECharts`
+
+**Software Developer — ApifyCloud** · Integrations & automation platform (WhatsApp Business API, Zoho Desk, Genesys Cloud)
+Diagnosed and fixed production issues — including unbounded SQL queries causing recurring 502s and a client access security flaw — and built REST API integrations with Deluge on Zoho Desk.
+`Node.js` `MySQL` `Deluge (Zoho)` `JavaScript` `Linux` `PM2`
 
 ### 🚀 Featured Projects
 | Project | Stack | Live |
